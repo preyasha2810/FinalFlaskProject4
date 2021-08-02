@@ -15,7 +15,10 @@
 ![5006](https://user-images.githubusercontent.com/45910402/127793242-5137e462-ee9d-4833-975d-158f25feca24.PNG)
 ![5008](https://user-images.githubusercontent.com/45910402/127793244-20caefc6-bd7e-4bd8-9f26-8c06092bdac9.PNG)
 
-# Created By
+## Link to all Parts
+[part1](app)
+
+## Created By
 - Preyasha Patel (pp54@njit.edu)
 
 
