@@ -6,17 +6,17 @@
 [Flask App Tutorial](https://hackersandslackers.com/your-first-flask-application)
 
 ## Link to all Parts
-[Part_1](app)
-[Part_2](Flask_Jinja_Tutorial)
-[Part_3](Flask_WTForms_Tutorial)
-[Part_4](Routing_Flask)
-[Part_5](Configure_Flask)
-[Part_6](Flask_App_Factory)
-[Part_7](Flask_Blueprint_Tutorial)
-[Part_8](Flask_Assets_Tutorial)
-[Part_9](Flask_SQLAlchemy_Tutorial)
-[Part_10](FlaskLogin_Tutorial)
-[Part_11](Flask_Session_Tutorial
+[Part_1](app)\
+[Part_2](Flask_Jinja_Tutorial)\
+[Part_3](Flask_WTForms_Tutorial)\
+[Part_4](Routing_Flask)\
+[Part_5](Configure_Flask)\
+[Part_6](Flask_App_Factory)\
+[Part_7](Flask_Blueprint_Tutorial)\
+[Part_8](Flask_Assets_Tutorial)\
+[Part_9](Flask_SQLAlchemy_Tutorial)\
+[Part_10](FlaskLogin_Tutorial)\
+[Part_11](Flask_Session_Tutorial)
 
 ## Snapshots
 
