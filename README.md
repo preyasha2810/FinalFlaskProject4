@@ -20,7 +20,14 @@
 
 ### Snapshots
 
-
+#### Get API
+![11](https://user-images.githubusercontent.com/45910402/127951122-b8311dcc-5cde-437a-952d-a2704e031dd9.PNG)
+#### Response API
+![12](https://user-images.githubusercontent.com/45910402/127951123-6e246fa0-403a-4ff9-abdc-7594c21fe611.PNG)
+#### Markup API
+![13](https://user-images.githubusercontent.com/45910402/127951124-77db8c3f-56cf-4055-ae48-6dfd3d564b36.PNG)
+#### Logic API
+![14](https://user-images.githubusercontent.com/45910402/127951126-2005ea07-cfe5-4368-8d66-2e4a2c00868c.PNG)
 #### App
 ![part1](https://user-images.githubusercontent.com/45910402/127957169-e278b623-84de-4001-b470-a1427b6e2ab4.PNG)
 #### Jinja
@@ -46,14 +53,6 @@
 #### Session
 ![part12](https://user-images.githubusercontent.com/45910402/127957186-fa57cc33-e240-4c3c-9f4f-c63972ab982e.PNG)
 ![part_12](https://user-images.githubusercontent.com/45910402/127957167-38f2f4b6-b052-466f-9e85-340a94fe2030.PNG)
-#### Get API
-![11](https://user-images.githubusercontent.com/45910402/127951122-b8311dcc-5cde-437a-952d-a2704e031dd9.PNG)
-#### Response API
-![12](https://user-images.githubusercontent.com/45910402/127951123-6e246fa0-403a-4ff9-abdc-7594c21fe611.PNG)
-#### Markup API
-![13](https://user-images.githubusercontent.com/45910402/127951124-77db8c3f-56cf-4055-ae48-6dfd3d564b36.PNG)
-#### Logic API
-![14](https://user-images.githubusercontent.com/45910402/127951126-2005ea07-cfe5-4368-8d66-2e4a2c00868c.PNG)
 
 ### Created By
 - Preyasha Patel (pp54@njit.edu)
