@@ -30,7 +30,6 @@
 ![14](https://user-images.githubusercontent.com/45910402/127951126-2005ea07-cfe5-4368-8d66-2e4a2c00868c.PNG)
 
 ### Link to Screenshots
-
 [Screenshots](App Screenshots)
 
 ### Created By
