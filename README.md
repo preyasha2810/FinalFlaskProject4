@@ -31,7 +31,7 @@
 
 ### Link to Screenshots
 
-[FLASK APPLICATION.docx](https://github.com/preyasha2810/FinalFlaskProject4/files/6920923/FLASK.APPLICATION.docx)
+[Screenshots](App Screenshots)
 
 ### Created By
 - Preyasha Patel (pp54@njit.edu)
