@@ -18,24 +18,19 @@
 [Part_10](FlaskLogin_Tutorial)\
 [Part_11](Flask_Session_Tutorial)
 
-## Snapshots
+## API Snapshots
+- Get API
+![11](https://user-images.githubusercontent.com/45910402/127951122-b8311dcc-5cde-437a-952d-a2704e031dd9.PNG)
+- Response API
+![12](https://user-images.githubusercontent.com/45910402/127951123-6e246fa0-403a-4ff9-abdc-7594c21fe611.PNG)
+- Markup API
+![13](https://user-images.githubusercontent.com/45910402/127951124-77db8c3f-56cf-4055-ae48-6dfd3d564b36.PNG)
+- Logic API
+![14](https://user-images.githubusercontent.com/45910402/127951126-2005ea07-cfe5-4368-8d66-2e4a2c00868c.PNG)
 
-### Flask run
-![Successfully running](https://user-images.githubusercontent.com/45910402/127793765-721a07a7-b026-4ed0-aca9-d1ca0d131b01.PNG)
-### App
-![5000](https://user-images.githubusercontent.com/45910402/127793236-b7f65147-9394-4cb7-b52c-0550bca3568d.PNG)
-### Jinja 
-![5001](https://user-images.githubusercontent.com/45910402/127793237-7679e8a9-d081-4243-bc93-80168462d05b.PNG)
-### Form
-![5002](https://user-images.githubusercontent.com/45910402/127793238-13252dbc-82cb-492a-ba6e-d751a4d0e818.PNG)
-### Flask
-![5003](https://user-images.githubusercontent.com/45910402/127793239-62a20e60-2986-42a7-86dc-7d276398f4c2.PNG)
-### Cookie
-![5004](https://user-images.githubusercontent.com/45910402/127793240-acae68ae-c1b4-4e9a-8bf5-00bb8cea3491.PNG)
-### Blueprint
-![5006](https://user-images.githubusercontent.com/45910402/127793242-5137e462-ee9d-4833-975d-158f25feca24.PNG)
-### SQLAlchemy
-![5008](https://user-images.githubusercontent.com/45910402/127793244-20caefc6-bd7e-4bd8-9f26-8c06092bdac9.PNG)
+## Link to Screenshots
+
+[FLASK APPLICATION.docx](https://github.com/preyasha2810/FinalFlaskProject4/files/6920923/FLASK.APPLICATION.docx)
 
 ## Created By
 - Preyasha Patel (pp54@njit.edu)
